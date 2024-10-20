@@ -26,7 +26,7 @@ public class Empresa {
 	private String direccion;
 	private String email;
 	private Long telefono;
-	private String sectorr;
+	private String sectorrr;
 	private Long aniovinculacion;
 	private String estado;
 }
